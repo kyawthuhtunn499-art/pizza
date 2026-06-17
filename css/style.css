@@ -100,6 +100,7 @@ nav .nav-link li a {
 nav .nav-link li a.active{
     color: var(--secondary);
 }
+
 /* hero Home */
 #home{
     /* border: 5px solid black; */
